@@ -2,10 +2,11 @@ body{
     background-color: rgb(255, 0, 0);
 }
 .cabeçalho{
-background-color: black;
+background-color: rgb(253, 0, 0);
 margin: 50%
 }
 .introduçao{
     display: flex;
     justify-content: space-around;
+    background-color: rgb(146, 255, 73);
 }
