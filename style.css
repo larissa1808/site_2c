@@ -1,12 +1,11 @@
-body{
-    background-color: rgb(255, 0, 0);
-}
 .cabeçalho{
-background-color: rgb(253, 0, 0);
-margin: 10% 
+background-color: rgb(253, 0, 0); 
 }
 .introduçao{
     display: flex;
     justify-content: space-around;
     background-color: rgb(146, 255, 73);
+}
+.imagempimenta{
+    width: 50%;
 }
