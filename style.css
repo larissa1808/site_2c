@@ -3,7 +3,7 @@ body{
 }
 .cabeçalho{
 background-color: rgb(253, 0, 0);
-margin: 50%
+margin: 10% 
 }
 .introduçao{
     display: flex;
