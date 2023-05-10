@@ -1,4 +1,10 @@
 body{
     background-color: rgb(255, 0, 0);
 }
+.cabeçalho{
 
+}
+.introduçao{
+    display: flex;
+    justify-content: space-around;
+}
