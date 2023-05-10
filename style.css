@@ -2,7 +2,8 @@ body{
     background-color: rgb(255, 0, 0);
 }
 .cabeçalho{
-
+background-color: black;
+margin: 50%
 }
 .introduçao{
     display: flex;
