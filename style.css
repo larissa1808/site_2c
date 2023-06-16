@@ -1,10 +1,10 @@
 .cabeçalho{
-background-color: rgb(233, 3, 34); 
+background-color: rgb(2, 118, 250); 
 }
 .introduçao{
     display: flex;
     justify-content: space-around;
-    background-color: rgb(125, 255, 73);
+    background-color: rgb(73, 197, 255);
 }
 .imagempimenta{
     width: 45%;
