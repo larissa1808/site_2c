@@ -4,7 +4,7 @@ background-color: rgb(233, 3, 34);
 .introduçao{
     display: flex;
     justify-content: space-around;
-    background-color: rgb(255, 176, 73);
+    background-color: rgb(125, 255, 73);
 }
 .imagempimenta{
     width: 45%;
