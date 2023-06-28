@@ -4,7 +4,7 @@ background-color: rgb(2, 118, 250);
 .introduçao{
     display: flex;
     justify-content: space-around;
-    background-color: rgb(73, 197, 255);
+    background-color: rgb(134, 231, 246);
 }
 .imagempimenta{
     width: 45%;
@@ -16,7 +16,7 @@ background-color: rgb(2, 118, 250);
     display: list-item;
 }
 .cabeçalho2{
-    background-color: #00f020;
+    background-color: #7ce7f0;
 }
 .imagempimenta2{
     width: 25%;
