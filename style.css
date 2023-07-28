@@ -1,6 +1,10 @@
 .cabeçalho{
 background-color: rgb(0, 122, 223); 
 }
+.head {
+font-family: Arial, Helvetica, sans-serif;
+}
+
 .introduçao{
     display: flex;
     justify-content: space-around;
@@ -19,7 +23,7 @@ background-color: rgb(0, 122, 223);
     background-color: #7ce7f0;
 }
 .imagempimenta2{
-    width: 10%;
+    width: 15%;
 }
 .semana1{
     background-color: #0076d6;
