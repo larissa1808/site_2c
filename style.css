@@ -45,7 +45,8 @@ font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: space-around;
 }
-.paragrafo3{
+.cabeçalho3{
+    background-color: #0076d6;
     font-size: 20px;
 }
 .imagempimenta3{
