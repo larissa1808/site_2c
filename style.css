@@ -1,5 +1,5 @@
 .cabeçalho{
-background-color: rgb(0, 122, 223); 
+background-color: rgb(255, 255, 255); 
 }
 .cabeçalho{
    font-family: Arial, sans-serif; 
@@ -13,7 +13,7 @@ font-family: Arial, Helvetica, sans-serif;
 .introduçao{
     display: flex;
     justify-content: space-around;
-    background-color: rgb(134, 231, 246);
+    background-color: rgb(255, 255, 255);
     margin: 0 20 0 20;
     padding: 20 0 20 0;
 }
@@ -27,13 +27,13 @@ font-family: Arial, Helvetica, sans-serif;
     display: list-item;
 }
 .cabeçalho2{
-    background-color: #7ce7f0;
+    background-color: #ffffff;
 }
 .imagempimenta2{
     width: 15%;
 }
 .Benefíciodapimenta{
-    background-color: #0076d6;
+    background-color: hsl(0, 0%, 100%);
     font-family: Arial, Helvetica, sans-serif;
 }
 .paragrafo2{
@@ -48,7 +48,7 @@ font-family: Arial, Helvetica, sans-serif;
     justify-content: space-around;
 }
 .cabeçalho3{
-    background-color: #7ce7f0;
+    background-color: #ffffff;
     font-size: 20px;
 }
 .imagempimenta3{
